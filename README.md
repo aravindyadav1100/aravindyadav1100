@@ -1,103 +1,148 @@
-<!-- HEADER WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mekala%20Aravind&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Full%20Stack%20Developer&descSize=20&descAlignY=58" width="100%"/>
-</p>
 
-<!-- TYPING EFFECT -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Python+%7C+Django+%7C+React;Building+secure+full+stack+apps;Open+to+fresher+roles+%F0%9F%9A%80;Debugging+my+way+to+success" alt="Typing SVG" />
-  </a>
-</p>
+<!-- ================= PROFILE HEADER ================= -->
+
+<h1 align="center">Hi 👋, I'm Mekala Aravind</h1>
+
+<h3 align="center">
+  🚀 Python Full Stack Developer | Django | React.js | MySQL
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aravindyadav1100&label=Profile%20Views&color=2dd4bf&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hyderabad-India-orange?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Web+Developer;React.js+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <a href="[LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:[your email]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[Resume link]"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=aravindyadav1100&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+- 🎓 B.Sc. Mathematics, Physics & Computer Science Graduate (2026)
+- 💻 Passionate about Python Full Stack Development.
+- 🌱 Currently improving my skills in Python, Django and React.js.
+- 🔨 Interested in developing real-world web applications.
+- 🧠 Enjoy solving problems and learning new technologies.
+- 🎯 Looking for opportunities as a Python Developer / Python Full Stack Developer.
 
-- 🎓 B.Sc. (Maths, Physics & Computer Science), 2026
-- 💼 Targeting **Python Developer / Full Stack Developer** fresher roles
-- 🏦 Built a **Banking Management System** with Django and MySQL
-- ⚛️ Learning advanced **React, Redux Toolkit** and REST APIs
-- 🧩 Practicing DSA and problem solving every day
+---
 
-</td>
-<td width="40%" align="center">
+## 🛠️ Technical Skills
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7DF1E&width=300&lines=print('Hello,+World!');console.log('Hire+me!');" />
+### 💻 Programming Languages
 
-</td>
-</tr>
-</table>
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,react,redux,html,css,bootstrap,mysql,git,github,vscode&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript" />
 </p>
 
-## 🚀 Featured Project
+### 🎨 Frontend Development
 
-<table>
-<tr>
-<td>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
 
-### 🏦 Full Stack Banking Management System
-A secure banking web app with authentication, transfers and transaction tracking.
+### ⚙️ Backend Development
 
-✅ Registration, login and logout
-✅ Fund transfers and transaction history
-✅ Notifications and account management
-✅ Form validation
+<p>
+  <img src="https://skillicons.dev/icons?i=django" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### 🗄️ Database & Tools
 
-[![Code](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)]([repo link])
-[![Demo](https://img.shields.io/badge/Live-Demo-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white)]([demo link])
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
 
-</td>
-</tr>
-</table>
+---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+### 🏦 1. Banking Management System
+
+A full-stack banking web application developed using Python and Django.
+
+**Features:**
+- Customer Registration & Login
+- Account Management
+- Balance Checking
+- Fund Transfer
+- Transaction History
+- Downloadable Mini Statement
+
+**Tech Stack:** Python | Django | MySQL | HTML | CSS | Bootstrap
+
+### 🌐 2. React Social Media Application
+
+A social media frontend application developed using React.js and Redux Toolkit.
+
+**Features:**
+- Component-based architecture
+- State management using Redux Toolkit
+- Reusable React components
+- Interactive user interface
+
+**Tech Stack:** React.js | JavaScript | Redux Toolkit | HTML | CSS
+
+### 💼 3. Personal Portfolio Website
+
+A responsive portfolio website showcasing my skills, projects and professional profile.
+
+**Tech Stack:** React.js | JavaScript | Tailwind CSS
+
+🔗 [View Portfolio Repository](https://github.com/aravindyadav1100/portfolio)
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aravindyadav1100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindyadav1100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aravindyadav1100&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindyadav1100&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aravindyadav1100&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img width="90%" src="https://streak-stats.demolab.com?user=aravindyadav1100&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🐍 Contribution Snake
+---
+
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aravindyadav1100/aravindyadav1100/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
 
-## 🤝 Let's Connect
-<p align="center"><i>I'm always open to internships, fresher roles and collaboration.</i></p>
+---
 
-<!-- FOOTER WAVE -->
+## 📚 Currently Learning
+
+- Advanced Python Programming
+- Django Web Development
+- React.js & Redux Toolkit
+- MySQL Database Management
+- Full Stack Application Development
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+  <a href="https://linkedin.com/in/mekala-aravind1100">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/aravindyadav1100">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:mekalaaravind@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
+
+---
+
+<h3 align="center">
+  💡 "Learning Continuously | Building Consistently | Growing Every Day"
+</h3>
+
+<h4 align="center">⭐ Thank you for visiting my GitHub profile! ⭐</h4>
