@@ -297,7 +297,7 @@ and professionals in the technology community.
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:mekalaaravind@gmail.com">
+<a href="mailto:mekalaaravind1100@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
