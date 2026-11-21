@@ -1,59 +1,103 @@
-<h1 align="center">Hi, I'm Mekala Aravind 👋</h1>
-<h3 align="center">Python Full Stack Developer | Django • React • MySQL</h3>
-
+<!-- HEADER WAVE -->
 <p align="center">
-  Hyderabad, India · B.Sc. (Mathematics, Physics & Computer Science), 2026<br>
-  Open to <b>Python Developer</b> and <b>Full Stack Developer</b> fresher roles
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mekala%20Aravind&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Full%20Stack%20Developer&descSize=20&descAlignY=58" width="100%"/>
+</p>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=Python+%7C+Django+%7C+React;Building+secure+full+stack+apps;Open+to+fresher+roles+%F0%9F%9A%80;Debugging+my+way+to+success" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="[LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:[your email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="[Resume link]"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=aravindyadav1100&label=Profile%20Views&color=2dd4bf&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hyderabad-India-orange?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="[LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:[your email]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[Resume link]"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I build full-stack web applications with Python and Django on the backend and React on the frontend. I enjoy turning real-world workflows, like banking transactions, into clean, validated and responsive apps. I'm looking for a fresher role where I can learn fast and ship real features.
+
+<table>
+<tr>
+<td width="60%">
+
+- 🎓 B.Sc. (Maths, Physics & Computer Science), 2026
+- 💼 Targeting **Python Developer / Full Stack Developer** fresher roles
+- 🏦 Built a **Banking Management System** with Django and MySQL
+- ⚛️ Learning advanced **React, Redux Toolkit** and REST APIs
+- 🧩 Practicing DSA and problem solving every day
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7DF1E&width=300&lines=print('Hello,+World!');console.log('Hire+me!');" />
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Backend:** ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-**Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-**Database:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,redux,html,css,bootstrap,mysql,git,github,vscode&theme=dark" />
+</p>
 
 ## 🚀 Featured Project
 
+<table>
+<tr>
+<td>
+
 ### 🏦 Full Stack Banking Management System
-A secure web app for everyday banking operations.
+A secure banking web app with authentication, transfers and transaction tracking.
 
-- User registration, login and logout with authentication
-- Fund transfers between accounts with transaction history
-- Notifications and account management
-- Server-side and client-side form validation
+✅ Registration, login and logout
+✅ Fund transfers and transaction history
+✅ Notifications and account management
+✅ Form validation
 
-**Tech:** Python, Django, MySQL, JavaScript, HTML5, CSS3, Bootstrap
-🔗 [View Code]([repo link]) · 🌐 [Live Demo]([demo link])
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-<!-- Add 1–2 more projects in the same format -->
+[![Code](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)]([repo link])
+[![Demo](https://img.shields.io/badge/Live-Demo-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white)]([demo link])
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aravindyadav1100&show_icons=true&theme=default&hide_border=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindyadav1100&layout=compact&hide_border=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aravindyadav1100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindyadav1100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
-## 🎯 Currently
-- 🌱 Strengthening Django REST APIs and React state management
-- 📚 Practicing DSA and problem solving
-- 🤝 Open to internships and fresher roles
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aravindyadav1100&theme=tokyonight&hide_border=true&background=0d1117"/>
+</p>
 
----
-<p align="center">⭐ Thanks for visiting!</p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aravindyadav1100/aravindyadav1100/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+## 🤝 Let's Connect
+<p align="center"><i>I'm always open to internships, fresher roles and collaboration.</i></p>
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+</p>
